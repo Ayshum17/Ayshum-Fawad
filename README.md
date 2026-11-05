@@ -1,31 +1,33 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFC1D9,50:F7B6D2,100:DCCBFF&height=190&section=header&text=Ayesha%20Fawad&fontSize=52&fontColor=7A3155&animation=fadeIn&fontAlignY=42&desc=Entrepreneur%20%7C%20AI%20Automation%20%7C%20Creative%20Developer&descAlignY=65&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFC1D9,50:F7B6D2,100:DCCBFF&height=190&section=header&text=Ayshum%20Fawad&fontSize=52&fontColor=7A3155&animation=fadeIn&fontAlignY=42&desc=Entrepreneur%20%7C%20AI%20Automation%20%7C%20Creative%20Developer&descAlignY=65&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2800&pause=900&color=CF5C91&center=true&vCenter=true&width=650&lines=Turning+ideas+into+beautiful+products+%F0%9F%8C%B8;Building+smart+AI+automations+%F0%9F%A4%96;Designing+experiences+with+creativity+%E2%9C%A8;Learning%2C+experimenting+%26+building+%F0%9F%92%97" />
 
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="160" />
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 
 
-<br/>
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="130" alt="Cute animated character"/>
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
 
 <br/>
 
